@@ -1,3 +1,4 @@
+测试需先在当前路径下创建文件夹qrcodes用来存放生成的二维码图片。
 # qrcode
 python  二维码制作
 就看wuwent_qrcode文件里的make方法的传参说明就完事了
